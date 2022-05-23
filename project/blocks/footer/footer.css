@@ -1,0 +1,8 @@
+.footer {
+    height: 1px;
+    padding: 60px 0 40px 0;
+    min-height: 350px;
+    color: #FFF;
+    background-color: #000;
+    /*Без border-size высота блока увеличивается до 450px из-за внутренних отступов*/
+}
