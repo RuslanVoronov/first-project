@@ -1,0 +1,9 @@
+.footer {
+    height: 1px;
+    /*Если уберу высоту, то box-sizing не будет работать*/
+    padding: 60px 0 40px 0;
+    min-height: 350px;
+    color: #FFF;
+    background-color: #1f1f1f;
+    box-sizing: border-box;
+}
